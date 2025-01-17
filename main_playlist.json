@@ -4,7 +4,7 @@
     "title": "Yemen",
     "description": "1984",
     "color": "#FFCDD2",
-    "nPath": "yemen.mp3",
+    "nPath": "https://github.com/asdeqws/Nasheed/raw/refs/heads/main/yemen.mp3",
     "time": 96
   },
   {
@@ -12,7 +12,7 @@
     "title": "Saudi Arabia",
     "description": "1978",
     "color": "#C8E6C9",
-    "nPath": "saudi_arabia.mp3",
+    "nPath": "https://github.com/asdeqws/Nasheed/raw/refs/heads/main/saudi_arabia.mp3",
     "time": 106
   },
   {
@@ -20,7 +20,7 @@
     "title": "Sudan",
     "description": "1956",
     "color": "#BBDEFB",
-    "nPath": "sudan.mp3",
+    "nPath": "https://github.com/asdeqws/Nasheed/raw/refs/heads/main/sudan.mp3",
     "time": 67
   }
 ]
